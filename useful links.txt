@@ -1,0 +1,61 @@
+http://www.agiratech.com/4-must-known-operators-in-rxjs/
+
+https://www.youtube.com/watch?v=iX8UhDOmkPE  (PASSPORT JS USAGE)
+https://www.youtube.com/watch?v=iX8UhDOmkPE
+
+https://code.tutsplus.com/tutorials/authenticating-nodejs-applications-with-passport--cms-21619
+
+
+https://stackoverflow.com/questions/1789945/how-to-check-whether-a-string-contains-a-substring-in-javascript (search string in given string)
+https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02 (Test Cases)
+https://www.youtube.com/watch?v=MLTRHc5dk6s (Test Cases)
+
+https://courses.wesbos.com/account/access/5b61af5699ce1f5578c25872/view/194130650  (Learn JavaScript)
+https://codeburst.io/how-to-test-javascript-with-mocha-the-basics-80132324752e
+
+https://www.youtube.com/watch?v=srPXMt1Q0nY (Nodejs multer file upload)
+
+
+https://github.com/bamlab/generator-rn-toolbox/issues/77 (error : rror: Command failed: Invalid Parameter - -resize )
+
+http://www.codiodes.com/match-password-validation/ (angular4 - password nd conf password)
+
+https://stackoverflow.com/questions/35269179/angular-conditional-class-with-ngclass  (anuglar4 ngClasses)
+
+https://medium.com/@ahmedhamedTN/multiple-files-upload-with-angular-2-express-and-multer-1d951a32a1b3 (angular4 multiple uploads)
+
+https://medium.com/@michelestieven/organizing-angular-applications-f0510761d65a  (Multiple services in one compon
+
+https://medium.com/wdstack/bootstrap-sidebar-examples-e363021395ff (BOOTSTRAP LEFT NAV DROPDOWN)
+
+https://stackoverflow.com/questions/35883196/how-to-do-greater-than-syntax-in-a-mongoose-js-query (Mongose $gt QUERY)
+
+
+http://materiallab.authenticgoods.co/ui-buttons.html
+
+
+https://developer.okta.com/blog/page/3/ (different different authentications);
+
+http://regexlib.com/RETester.aspx?regexp_id=597  (for regular expresssions)
+https://regex101.com/r/lE9qR3/149 (for regular expresssions)
+https://stackoverflow.com/questions/45911893/automatic-logout-in-angular-2-after-few-minutes (AutoLogout)
+https://dev.to/saigowthamr/how-to-implement-lazy--loading-in-angular-6-3ple (Lazy Loading in angular6)
+http://www.advancesharp.com/blog/1233/angular-6-lazy-loading-with-demo (Lazy Loading in angular6)
+https://www.udemy.com/the-complete-nodejs-developer-course-2/?gclid=EAIaIQobChMIgtvkzpD23QIV0hwrCh3ddQKAEAAYASAAEgIRKPD_BwE&utm_campaign=NEW-AW-PROS-TECH-Dev-Node-Js-EN-ENG_._ci_922484_._sl_ENG_._vi_TECH_._sd__._la_EN_._&utm_medium=udemyads&utm_content=_._ag_tutorial_._ad_279780147564_._de_c_._dm__._lo_1007743_._&k_clickid=73c9be09-5408-449b-9d46-51e1c66ff763_408_GOOGLE_NEW-AW-PROS-TECH-Dev-Node-Js-EN-ENG_._ci_922484_._sl_ENG_._vi_TECH_._sd__._la_EN_.__tutorial_%2Bnodejs+%2Btutorial_b_279780147564_c&utm_source=adwords&matchtype=b&utm_term=_._pl__._pd__._ti_kwd-69941824067_._kw_%2Bnodejs+%2Btutorial_._
+
+
+
+https://www.youtube.com/watch?v=pU9Q6oiQNd0 (What is Node.js Exactly? - a beginners introduction to Nodejs)
+
+https://code-examples.net/en/tagged/mongodb (Mongodb question and answers)
+
+http://gabceb.github.io/underscore.string.site/#  (Underscore.string js)
+
+https://datatables.net/examples/api/show_hide.html
+
+
+https://embed.plnkr.co/7kqyiW97CI696Ixn020g/     // Common modal-popup  bootstrap 
+
+
+https://stackoverflow.com/questions/37364973/promise-vs-observable    //Angular Wikipedia search after key press complete
+http://embed.plnkr.co/SIltBL/                                         //Angular Wikipedia search demo
